@@ -2,6 +2,7 @@
   "dependencies": {
     "com.autodesk.fbx": {
       "version": "5.1.1",
+<<<<<<< HEAD
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -62,12 +63,20 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
       "source": "builtin",
       "dependencies": {}
     },
+<<<<<<< HEAD
     "com.unity.2d.spriteshape": {
       "version": "10.0.7",
       "depth": 1,
@@ -82,12 +91,18 @@
     "com.unity.2d.tilemap": {
       "version": "1.0.0",
       "depth": 1,
+=======
+    "com.unity.2d.tilemap": {
+      "version": "1.0.0",
+      "depth": 0,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.tilemap": "1.0.0",
         "com.unity.modules.uielements": "1.0.0"
       }
     },
+<<<<<<< HEAD
     "com.unity.2d.tilemap.extras": {
       "version": "4.1.0",
       "depth": 1,
@@ -105,6 +120,33 @@
       "source": "registry",
       "dependencies": {
         "com.unity.profiling.core": "1.0.2"
+=======
+    "com.unity.ads": {
+      "version": "4.12.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ai.navigation": {
+      "version": "2.0.8",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.analytics": {
+      "version": "3.8.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.services.analytics": "1.0.4"
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       },
       "url": "https://packages.unity.com"
     },
@@ -120,7 +162,11 @@
     },
     "com.unity.bindings.openimageio": {
       "version": "1.0.0",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 2,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {
         "com.unity.collections": "1.0.0"
@@ -129,7 +175,11 @@
     },
     "com.unity.burst": {
       "version": "1.8.18",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 2,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
@@ -138,17 +188,29 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
+<<<<<<< HEAD
       "version": "3.1.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.splines": "2.0.0",
         "com.unity.modules.imgui": "1.0.0"
+=======
+      "version": "2.10.3",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.31"
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "2.8.2",
+=======
+      "version": "2.5.2",
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -156,7 +218,11 @@
     },
     "com.unity.collections": {
       "version": "2.5.1",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 2,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.17",
@@ -166,6 +232,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -173,6 +240,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 1,
@@ -180,6 +249,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.feature.2d": {
       "version": "2.0.1",
       "depth": 0,
@@ -195,6 +265,8 @@
         "com.unity.2d.aseprite": "1.1.6"
       }
     },
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.feature.characters-animation": {
       "version": "1.0.0",
       "depth": 0,
@@ -229,6 +301,7 @@
         "com.unity.visualscripting": "1.9.5"
       }
     },
+<<<<<<< HEAD
     "com.unity.feature.mobile": {
       "version": "1.0.0",
       "depth": 0,
@@ -239,6 +312,8 @@
         "com.unity.mobile.notifications": "2.4.0"
       }
     },
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.feature.worldbuilding": {
       "version": "1.0.1",
       "depth": 0,
@@ -262,8 +337,13 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.formats.fbx": {
+<<<<<<< HEAD
       "version": "5.1.3",
       "depth": 0,
+=======
+      "version": "5.1.1",
+      "depth": 1,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {
         "com.autodesk.fbx": "5.1.1",
@@ -289,6 +369,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.inputsystem": {
       "version": "1.14.0",
       "depth": 0,
@@ -311,10 +392,16 @@
     "com.unity.mathematics": {
       "version": "1.3.2",
       "depth": 1,
+=======
+    "com.unity.mathematics": {
+      "version": "1.3.2",
+      "depth": 3,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.memoryprofiler": {
       "version": "1.1.6",
       "depth": 0,
@@ -344,6 +431,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.multiplayer.center": {
       "version": "1.0.0",
       "depth": 0,
@@ -352,6 +441,7 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
+<<<<<<< HEAD
     "com.unity.muse.common": {
       "version": "2.0.3",
       "depth": 1,
@@ -386,13 +476,22 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
       "depth": 2,
+=======
+    "com.unity.nuget.mono-cecil": {
+      "version": "1.11.4",
+      "depth": 3,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 2,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -407,17 +506,26 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.probuilder": {
+<<<<<<< HEAD
       "version": "6.0.5",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.shadergraph": "17.0.3",
+=======
+      "version": "6.0.4",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.shadergraph": "17.0.2",
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.physics": "1.0.0",
         "com.unity.settings-manager": "1.0.3"
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.profiling.core": {
       "version": "1.0.2",
       "depth": 1,
@@ -432,13 +540,39 @@
       "dependencies": {
         "com.unity.timeline": "1.8.7",
         "com.unity.collections": "1.2.4",
+=======
+    "com.unity.purchasing": {
+      "version": "4.12.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.services.core": "1.12.5",
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.recorder": {
+      "version": "5.1.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.0.0",
+        "com.unity.collections": "1.0.0",
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
         "com.unity.bindings.openimageio": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
       "version": "17.0.3",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 3,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "builtin",
       "dependencies": {
         "com.unity.burst": "1.8.14",
@@ -451,6 +585,7 @@
         "com.unity.rendering.light-transport": "1.0.1"
       }
     },
+<<<<<<< HEAD
     "com.unity.render-pipelines.universal": {
       "version": "17.1.0",
       "depth": 0,
@@ -472,6 +607,11 @@
     "com.unity.rendering.light-transport": {
       "version": "1.0.1",
       "depth": 2,
+=======
+    "com.unity.rendering.light-transport": {
+      "version": "1.0.1",
+      "depth": 4,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "builtin",
       "dependencies": {
         "com.unity.collections": "2.2.0",
@@ -481,7 +621,11 @@
     },
     "com.unity.searcher": {
       "version": "4.9.2",
+<<<<<<< HEAD
       "depth": 2,
+=======
+      "depth": 3,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -498,15 +642,25 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.services.authentication": {
       "version": "3.3.3",
+=======
+    "com.unity.services.analytics": {
+      "version": "6.0.1",
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0",
+<<<<<<< HEAD
         "com.unity.services.core": "1.13.0",
         "com.unity.nuget.newtonsoft-json": "3.2.1",
         "com.unity.modules.unitywebrequest": "1.0.0"
+=======
+        "com.unity.services.core": "1.12.4",
+        "com.unity.modules.jsonserialize": "1.0.0"
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       },
       "url": "https://packages.unity.com"
     },
@@ -521,6 +675,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.services.multiplay": {
       "version": "1.2.5",
       "depth": 0,
@@ -583,19 +738,30 @@
     "com.unity.settings-manager": {
       "version": "2.0.1",
       "depth": 1,
+=======
+    "com.unity.settings-manager": {
+      "version": "2.0.1",
+      "depth": 2,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
+<<<<<<< HEAD
       "version": "17.0.3",
       "depth": 1,
+=======
+      "version": "17.0.2",
+      "depth": 2,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "17.0.3",
         "com.unity.searcher": "4.9.2"
       }
     },
+<<<<<<< HEAD
     "com.unity.splines": {
       "version": "2.8.1",
       "depth": 0,
@@ -607,6 +773,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.terrain-tools": {
       "version": "5.1.2",
       "depth": 1,
@@ -618,8 +786,13 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
+<<<<<<< HEAD
       "version": "1.4.5",
       "depth": 1,
+=======
+      "version": "1.4.6",
+      "depth": 0,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
@@ -630,7 +803,11 @@
     },
     "com.unity.test-framework.performance": {
       "version": "3.0.3",
+<<<<<<< HEAD
       "depth": 2,
+=======
+      "depth": 3,
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.31",
@@ -650,6 +827,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.transport": {
       "version": "2.4.0",
       "depth": 1,
@@ -661,6 +839,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.ugui": {
       "version": "2.0.0",
       "depth": 0,
@@ -670,6 +850,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+<<<<<<< HEAD
     "com.unity.visualeffectgraph": {
       "version": "17.1.0",
       "depth": 0,
@@ -679,6 +860,8 @@
         "com.unity.render-pipelines.core": "17.0.3"
       }
     },
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.visualscripting": {
       "version": "1.9.5",
       "depth": 1,
@@ -689,6 +872,19 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.12",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

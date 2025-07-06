@@ -3,6 +3,9 @@
 --- !u!655991488 &1
 MultiplayerManager:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   m_ActiveMultiplayerRoles: 3
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   m_EnableMultiplayerRoles: 0
   m_StrippingTypes: {}

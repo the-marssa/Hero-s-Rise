@@ -58,11 +58,14 @@
         },
         {
             "userAdded": false,
+<<<<<<< HEAD
             "type": "UnityEngine.PhysicMaterial",
             "defaultInstantiationMode": 0
         },
         {
             "userAdded": false,
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
             "type": "UnityEngine.PhysicsMaterial",
             "defaultInstantiationMode": 0
         },
@@ -89,7 +92,11 @@
         {
             "userAdded": false,
             "type": "UnityEditor.SceneAsset",
+<<<<<<< HEAD
             "defaultInstantiationMode": 0
+=======
+            "defaultInstantiationMode": 1
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
         },
         {
             "userAdded": false,

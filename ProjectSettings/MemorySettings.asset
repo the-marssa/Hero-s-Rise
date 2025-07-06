@@ -32,6 +32,7 @@ MemorySettings:
     m_TempAllocatorSizeJobWorker: -1
     m_TempAllocatorSizeBackgroundWorker: -1
     m_TempAllocatorSizePreloadManager: -1
+<<<<<<< HEAD
   m_PlatformMemorySettings:
     27:
       m_MainAllocatorBlockSize: -1
@@ -62,3 +63,6 @@ MemorySettings:
       m_TempAllocatorSizeJobWorker: -1
       m_TempAllocatorSizeBackgroundWorker: -1
       m_TempAllocatorSizePreloadManager: -1
+=======
+  m_PlatformMemorySettings: {}
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)

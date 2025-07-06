@@ -2,16 +2,22 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
+<<<<<<< HEAD
   serializedVersion: 2
   tags:
   - MainLight
   - CinemachineTarget
   - ScreenCamera
   - cockpit_capitalLaser
+=======
+  serializedVersion: 3
+  tags: []
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - Temp_Post
   - Water
   - UI
@@ -23,12 +29,18 @@ TagManager:
   - Camera
   - MainCameraOnly
   - Oasis_TerrainBake
+=======
+  - 
+  - Water
+  - UI
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   - 
   - 
   - 
   - 
   - 
   - 
+<<<<<<< HEAD
   - Cockpit
   - Cockpit_3DSkybox
   - Cockpit_3DSkybox_BG
@@ -36,6 +48,23 @@ TagManager:
   - Cockpit_Invader
   - Cockpit_BG
   - Cockpit_DepthClear
+=======
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   - 
   - 
   - 
@@ -47,6 +76,7 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+<<<<<<< HEAD
   - Screen
   - Lamps
   - 
@@ -78,3 +108,5 @@ TagManager:
   - 
   - 
   - 
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
