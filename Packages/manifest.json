@@ -1,6 +1,7 @@
 {
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.2d.pixel-perfect": "5.0.3",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.cinemachine": "3.1.4",
@@ -31,6 +32,8 @@
     "com.unity.ugui": "2.0.0",
     "com.unity.visualeffectgraph": "17.1.0",
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "4.12.0",
@@ -49,6 +52,9 @@
     "com.unity.timeline": "1.8.8",
     "com.unity.ugui": "2.0.0",
     "com.unity.xr.legacyinputhelpers": "2.1.12",
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",

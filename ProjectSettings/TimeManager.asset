@@ -4,15 +4,21 @@
 TimeManager:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   Fixed Timestep: 0.02
   Maximum Allowed Timestep: 0.1
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   Fixed Timestep:
     m_Count: 2822399
     m_Rate:
       m_Denominator: 1
       m_Numerator: 141120000
   Maximum Allowed Timestep: 0.33333334
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   m_TimeScale: 1
   Maximum Particle Timestep: 0.03

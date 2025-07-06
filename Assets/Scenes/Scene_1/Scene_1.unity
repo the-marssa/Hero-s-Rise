@@ -120,7 +120,10 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &19453998
 GameObject:
   m_ObjectHideFlags: 0
@@ -1674,6 +1677,9 @@ Transform:
   - {fileID: 866708033}
   m_Father: {fileID: 830503957}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1001 &447553399
 PrefabInstance:
@@ -1780,7 +1786,10 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 851952b7b0e34af42aa380bdb725f93b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &452869209
 GameObject:
   m_ObjectHideFlags: 0
@@ -2628,6 +2637,9 @@ Transform:
   - {fileID: 341839494}
   m_Father: {fileID: 1371056170}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1001 &665677848
 PrefabInstance:
@@ -2699,7 +2711,10 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aeef4b8ef6c39da44aba9cb5b6a33702, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &677471100
 GameObject:
   m_ObjectHideFlags: 0
@@ -3082,6 +3097,9 @@ Transform:
   - {fileID: 491675976}
   m_Father: {fileID: 83849382}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &826569328
 GameObject:
@@ -3205,7 +3223,10 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &827453545
 GameObject:
   m_ObjectHideFlags: 0
@@ -3302,6 +3323,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1792244375}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1001 &858480667
 PrefabInstance:
@@ -3397,7 +3421,10 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 11cd82315c26766498f7b844a94a49cb, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &864907361
 GameObject:
   m_ObjectHideFlags: 0
@@ -4032,6 +4059,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 161384837}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1062736566
 GameObject:
@@ -4072,7 +4102,10 @@ MonoBehaviour:
   m_RendererIndex: -1
   m_VolumeLayerMask:
 <<<<<<< HEAD
+<<<<<<< HEAD
     serializedVersion: 2
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     m_Bits: 1
@@ -4174,7 +4207,10 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1072033742
 GameObject:
   m_ObjectHideFlags: 0
@@ -4429,6 +4465,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 772457000}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1001 &1148302026
 PrefabInstance:
@@ -4508,7 +4547,10 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 04fbaaee952c46e42b6b2ecd001a7551, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1152499913
 GameObject:
   m_ObjectHideFlags: 0
@@ -5817,6 +5859,9 @@ Transform:
   - {fileID: 926626073}
   m_Father: {fileID: 2110670507}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1599926810
 GameObject:
@@ -5903,10 +5948,13 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
@@ -6194,6 +6242,9 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0008945912, y: -0.0055717416, z: 0.076036945}
     m_Extent: {x: 0.054826267, y: 0.044599924, z: 0.08201106}
   m_DirtyAABB: 0
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1630318608
 GameObject:
@@ -6306,7 +6357,10 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1639638377
 GameObject:
   m_ObjectHideFlags: 0
@@ -12740,6 +12794,9 @@ Transform:
   - {fileID: 1952978668}
   m_Father: {fileID: 1300218529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

@@ -72,7 +72,11 @@ NavMeshProjectSettings:
   m_LastAgentTypeID: -887442657
   m_Settings:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - serializedVersion: 2
+=======
+  - serializedVersion: 3
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
   - serializedVersion: 3
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -89,7 +93,13 @@ NavMeshProjectSettings:
     manualTileSize: 0
     tileSize: 256
 <<<<<<< HEAD
+<<<<<<< HEAD
     accuratePlacement: 0
+=======
+    buildHeightMesh: 0
+    maxJobWorkers: 0
+    preserveTilesOutsideBounds: 0
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
     buildHeightMesh: 0
     maxJobWorkers: 0

@@ -5,8 +5,12 @@ VersionControlSettings:
   m_ObjectHideFlags: 0
   m_Mode: Visible Meta Files
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CollabEditorSettings:
     inProgressEnabled: 1
+=======
+  m_TrackPackagesOutsideProject: 0
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
   m_TrackPackagesOutsideProject: 0
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)

@@ -13,6 +13,10 @@ AudioManager:
   m_VirtualVoiceCount: 512
   m_RealVoiceCount: 32
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_EnableOutputSuspension: 1
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
   m_EnableOutputSuspension: 1
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)

@@ -1053,7 +1053,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
 <<<<<<< HEAD
+<<<<<<< HEAD
   activeInputHandler: 1
+=======
+  activeInputHandler: 0
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
   activeInputHandler: 0
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)

@@ -3,6 +3,7 @@
 --- !u!78 &1
 TagManager:
 <<<<<<< HEAD
+<<<<<<< HEAD
   serializedVersion: 2
   tags:
   - MainLight
@@ -13,10 +14,15 @@ TagManager:
   serializedVersion: 3
   tags: []
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
+  serializedVersion: 3
+  tags: []
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
 <<<<<<< HEAD
   - Temp_Post
   - Water
@@ -49,6 +55,11 @@ TagManager:
   - Cockpit_BG
   - Cockpit_DepthClear
 =======
+=======
+  - 
+  - Water
+  - UI
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   - 
   - 
   - 
@@ -58,6 +69,15 @@ TagManager:
   - 
   - 
   - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
   - 
   - 
   - 
@@ -76,6 +96,7 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+<<<<<<< HEAD
 <<<<<<< HEAD
   - Screen
   - Lamps
@@ -108,5 +129,7 @@ TagManager:
   - 
   - 
   - 
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
