@@ -5,6 +5,7 @@ PresetManager:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DefaultList:
   - type:
       m_NativeTypeID: 108
@@ -27,6 +28,10 @@ PresetManager:
     defaultPresets:
     - m_Preset: {fileID: 2655988077585873504, guid: e8537455c6c08bd4e8bf0be3707da685,
         type: 2}
+=======
+  serializedVersion: 2
+  m_DefaultPresets: {}
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
   serializedVersion: 2
   m_DefaultPresets: {}

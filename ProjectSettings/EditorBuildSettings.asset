@@ -6,6 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 0
     path: Assets/SharedAssets/Benchmark/BenchmarkScene.unity
@@ -28,6 +29,10 @@ EditorBuildSettings:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 60576623fb27a497f94096ae6ee59ff5, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4c1640683c539c14080cfd43fbeffbda, type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9e9f2958d1b4b4642ace1d0c7770650b, type: 2}
+=======
+  m_Scenes: []
+  m_configObjects: {}
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
   m_Scenes: []
   m_configObjects: {}

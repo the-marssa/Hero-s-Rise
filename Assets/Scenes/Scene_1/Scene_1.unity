@@ -121,7 +121,10 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &19453998
@@ -1678,6 +1681,9 @@ Transform:
   m_Father: {fileID: 830503957}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -1787,7 +1793,10 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 851952b7b0e34af42aa380bdb725f93b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &452869209
@@ -2638,6 +2647,9 @@ Transform:
   m_Father: {fileID: 1371056170}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -2712,7 +2724,10 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: aeef4b8ef6c39da44aba9cb5b6a33702, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &677471100
@@ -3098,6 +3113,9 @@ Transform:
   m_Father: {fileID: 83849382}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -3224,7 +3242,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &827453545
@@ -3324,6 +3345,9 @@ Transform:
   m_Father: {fileID: 1792244375}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -3422,7 +3446,10 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 11cd82315c26766498f7b844a94a49cb, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &864907361
@@ -4060,6 +4087,9 @@ Transform:
   m_Father: {fileID: 161384837}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -4103,7 +4133,10 @@ MonoBehaviour:
   m_VolumeLayerMask:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     serializedVersion: 2
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
@@ -4208,7 +4241,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1072033742
@@ -4466,6 +4502,9 @@ Transform:
   m_Father: {fileID: 772457000}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -4548,7 +4587,10 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 04fbaaee952c46e42b6b2ecd001a7551, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1152499913
@@ -5860,6 +5902,9 @@ Transform:
   m_Father: {fileID: 2110670507}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -5949,10 +5994,13 @@ SpriteRenderer:
   m_SpriteTileMode: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   m_WasSpriteAssigned: 0
@@ -6243,6 +6291,9 @@ SkinnedMeshRenderer:
     m_Extent: {x: 0.054826267, y: 0.044599924, z: 0.08201106}
   m_DirtyAABB: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -6358,7 +6409,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 --- !u!1 &1639638377
@@ -12795,6 +12849,9 @@ Transform:
   m_Father: {fileID: 1300218529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)

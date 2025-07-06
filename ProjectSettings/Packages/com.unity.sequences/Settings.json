@@ -7,11 +7,14 @@
                 "value": "{\"m_Value\":{\"m_Major\":2,\"m_Minor\":1,\"m_Patch\":3,\"m_Build\":-1,\"m_Type\":\"\",\"m_Metadata\":\"\",\"m_Date\":\"\"}}"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             },
             {
                 "type": "UnityEngine.Sequences.MasterSequenceRegistry, Unity.Sequences, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "editor.defaultMasterSequenceRegistry",
                 "value": "{\"m_Value\":{\"instanceID\":0}}"
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======

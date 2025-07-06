@@ -6,6 +6,7 @@ QualitySettings:
   serializedVersion: 5
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CurrentQuality: 3
   m_QualitySettings:
   - serializedVersion: 4
@@ -19,6 +20,8 @@ QualitySettings:
 =======
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   m_CurrentQuality: 5
   m_QualitySettings:
   - serializedVersion: 4
@@ -30,6 +33,9 @@ QualitySettings:
     shadowCascades: 1
     shadowDistance: 15
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -37,6 +43,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     skinWeights: 2
@@ -60,6 +67,8 @@ QualitySettings:
 =======
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     skinWeights: 1
     globalTextureMipmapLimit: 1
     textureMipmapLimitSettings: []
@@ -79,6 +88,9 @@ QualitySettings:
     maximumLODLevel: 0
     enableLODCrossFade: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -90,7 +102,11 @@ QualitySettings:
     streamingMipmapsMaxFileIORequests: 1024
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     particleRaycastBudget: 256
+=======
+    particleRaycastBudget: 4
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
     particleRaycastBudget: 4
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -103,7 +119,11 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 11400000, guid: d7686b11d09df481bac3c76ecc5ea626, type: 2}
+=======
+    customRenderPipeline: {fileID: 0}
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
     customRenderPipeline: {fileID: 0}
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -119,6 +139,7 @@ QualitySettings:
     terrainBillboardStart: 50
     terrainFadeLength: 5
     terrainMaxTrees: 50
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     excludedTargetPlatforms:
@@ -140,6 +161,8 @@ QualitySettings:
     shadowCascades: 2
     shadowDistance: 40
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     excludedTargetPlatforms: []
@@ -204,6 +227,9 @@ QualitySettings:
     shadowCascades: 1
     shadowDistance: 20
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -219,6 +245,7 @@ QualitySettings:
     softParticles: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     softVegetation: 1
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 1
@@ -227,6 +254,8 @@ QualitySettings:
     vSyncCount: 0
     realtimeGICPUUsage: 100
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     softVegetation: 0
@@ -289,6 +318,9 @@ QualitySettings:
     vSyncCount: 1
     realtimeGICPUUsage: 50
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -310,7 +342,11 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 11400000, guid: 5e6cbd92db86f4b18aec3ed561671858, type: 2}
+=======
+    customRenderPipeline: {fileID: 0}
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
     customRenderPipeline: {fileID: 0}
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -326,6 +362,7 @@ QualitySettings:
     terrainBillboardStart: 50
     terrainFadeLength: 5
     terrainMaxTrees: 50
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     excludedTargetPlatforms:
@@ -406,6 +443,8 @@ QualitySettings:
 =======
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     excludedTargetPlatforms: []
   - serializedVersion: 4
     name: Very High
@@ -416,6 +455,9 @@ QualitySettings:
     shadowCascades: 2
     shadowDistance: 70
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -429,6 +471,7 @@ QualitySettings:
     anisotropicTextures: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     antiAliasing: 0
     softParticles: 0
     softVegetation: 1
@@ -438,6 +481,8 @@ QualitySettings:
     adaptiveVsync: 0
     vSyncCount: 0
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     antiAliasing: 2
@@ -501,6 +546,9 @@ QualitySettings:
     adaptiveVsync: 0
     vSyncCount: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -518,7 +566,11 @@ QualitySettings:
     streamingMipmapsMaxFileIORequests: 1024
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     particleRaycastBudget: 256
+=======
+    particleRaycastBudget: 4096
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
     particleRaycastBudget: 4096
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -531,7 +583,11 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     customRenderPipeline: {fileID: 11400000, guid: 4b83569d67af61e458304325a23e5dfd, type: 2}
+=======
+    customRenderPipeline: {fileID: 0}
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
     customRenderPipeline: {fileID: 0}
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
@@ -547,6 +603,7 @@ QualitySettings:
     terrainBillboardStart: 50
     terrainFadeLength: 5
     terrainMaxTrees: 50
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     excludedTargetPlatforms:
@@ -573,6 +630,8 @@ QualitySettings:
 =======
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
     excludedTargetPlatforms: []
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
@@ -595,6 +654,9 @@ QualitySettings:
     iPhone: 2
     tvOS: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)

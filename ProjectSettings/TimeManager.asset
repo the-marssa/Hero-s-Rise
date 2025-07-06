@@ -5,9 +5,12 @@ TimeManager:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   Fixed Timestep: 0.02
   Maximum Allowed Timestep: 0.1
 =======
+=======
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
   Fixed Timestep:
@@ -17,6 +20,9 @@ TimeManager:
       m_Numerator: 141120000
   Maximum Allowed Timestep: 0.33333334
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
+=======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
 =======
 >>>>>>> 7e026bb (fixed/project configuration and updated dependencies)
